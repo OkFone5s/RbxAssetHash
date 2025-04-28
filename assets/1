@@ -1,0 +1,4 @@
+local hi = "a"
+
+print(hi)
+print("https://github.com/OkFone5s/RbxAssetHash")
